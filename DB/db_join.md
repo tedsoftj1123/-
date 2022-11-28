@@ -14,4 +14,6 @@ JOIN은 보통 SELECT문과 함께 사용되며
 
 
 ## INNER JOIN(내부조인)
-asdfasdfasdfasdfasdfasdfasdf
+
+
+- [ ]  sad
