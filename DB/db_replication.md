@@ -9,6 +9,7 @@
 ---
 
 ![Untitled](https://github.com/tedsoftj1123/Backend_study/blob/main/images/replication.png)
-Replication을 사용하여 master를 복제한 읽기전용 DBslave를 생성한다. 따라서 어플리케이션 실행중 INSERT, UPDATE, DELETE쿼리들은 master가 받아서 처리후 slave에 replication(복제)을 진행하고 slave는 SELECT쿼리만을 처리한다.
+Replication을 사용하여 master를 복제한 읽기전
+ㅇㅈ용 DBslave를 생성한다. 따라서 어플리케이션 실행중 INSERT, UPDATE, DELETE쿼리들은 master가 받아서 처리후 slave에 replication(복제)을 진행하고 slave는 SELECT쿼리만을 처리한다.
 
 어플리케이션 실행중 발생하는 대부분의 쿼리는 select문이다. replication을 사용할 시 메인으로 사용되는 masterDB에는 부하를 줄여주고 slaveDB를 늘려줌으로써 성능향상효과를 얻을 수 있다.
