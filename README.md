@@ -10,5 +10,7 @@
     - [레플리케이션](https://github.com/tedsoftj1123/Backend_study/blob/main/DB/db_replication.md)
 - 코틀린
     - [DataClass](https://github.com/tedsoftj1123/Backend_study/blob/main/kotlin/kotlin_dataclass.md)
+- 아키텍쳐
+    - [MSA란](https://github.com/tedsoftj1123/Backend_study/blob/main/아키텍쳐/msa.md)
 - etc
     - [마크다운 문법](https://github.com/tedsoftj1123/Backend_study/blob/main/markdown/마크다운문법정리.md)
