@@ -6,7 +6,7 @@
 
 어노테이션이 있을 것이다. 그 어노테이션을 구현한 코드를 보면
 
-![](https://github.com/tedsoftj1123/Backend_study/blob/main/images/main.png)
+![j](https://github.com/tedsoftj1123/Backend_study/blob/main/images/%08main.png)
 
 @ComponentScan이라는게 있는데 이 어노테이션이 해당 클래스의 하위 클래스들을 스캔해서 @Component 어노테이션이나 stereotype(@Service, @Controller, @Repository 등) 어노테이션이 부여된 class를 찾아 자동으로 Bean으로 등록해주는 역할을 한다. 하위 클래스들을 스캔하기 때문에 이 어노테이션이 최상위 클래스에 붙어있는 것이다.
 
