@@ -13,6 +13,8 @@
     - [OSIV](https://github.com/tedsoftj1123/Backend_study/blob/main/JPA/osiv.md)
 - 코틀린
     - [DataClass](https://github.com/tedsoftj1123/Backend_study/blob/main/kotlin/kotlin_dataclass.md)
+- 스프링
+    - [@Component vs @Bean](https://github.com/tedsoftj1123/Backend_study/blob/main/Spring/beanvscomponent.md)
 - 아키텍쳐
     - [MSA란](https://github.com/tedsoftj1123/Backend_study/blob/main/아키텍쳐/msa.md)
 - etc
