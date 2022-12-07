@@ -9,6 +9,7 @@
     - [SQL Join](https://github.com/tedsoftj1123/Backend_study/blob/main/DB/db_join.md)
     - [레플리케이션](https://github.com/tedsoftj1123/Backend_study/blob/main/DB/db_replication.md)
 - JPA
+    -[영속성컨텍스트](https://github.com/tedsoftj1123/Backend_study/blob/main/JPA/jpa.md)
     - [OSIV](https://github.com/tedsoftj1123/Backend_study/blob/main/JPA/osiv.md)
 - 코틀린
     - [DataClass](https://github.com/tedsoftj1123/Backend_study/blob/main/kotlin/kotlin_dataclass.md)
